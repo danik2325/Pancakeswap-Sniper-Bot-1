@@ -2,8 +2,7 @@
 Pancakeswap-Sniper-Bot
 
 
-PASSWORD - pancake
-Pancakeswap Sniper Bot based on BSC. Autobuy, autosell, custom gas fee, coolest interface ever and more, more, more. I also trying to upload new versions of this program every week, to make fewer bugs & etc. You can enjoy this by clicking star.
+PASSWORD - pancake. Autobuy, autosell, custom gas fee, coolest interface ever and more, more, more. I also trying to upload new versions of this program every week, to make fewer bugs & etc. You can enjoy this by clicking star.
 
 
 📚 Change Log
